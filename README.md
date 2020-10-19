@@ -4,6 +4,7 @@ Los comands utilizados hasta ahora han sido: $ git status, $ git clone, $ echo, 
 
 
 | **NOMBRE** || **GITHUB** |
+| ----- || ----- |
 | Joseph Reyes || https://github.com/jossjack |
 | Adolfo Onrubia ||https://github.com/Binomi0 |
 | Andres Fondevila || https://github.com/andresuah |
